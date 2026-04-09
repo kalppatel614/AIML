@@ -4,3 +4,5 @@ scikit-learn
 shap
 matplotlib
 numpy
+plotly
+openpyxl
